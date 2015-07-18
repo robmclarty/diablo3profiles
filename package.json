@@ -1,0 +1,25 @@
+{
+  "name": "diablo3profiles",
+  "version": "0.0.0",
+  "description": "Show off your Diablo3 profile to the world!",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:robmclarty/diablo3profiles.git"
+  },
+  "keywords": [
+    "diablo",
+    "blizzard",
+    "bnet",
+    "battle.net",
+    "api"
+  ],
+  "author": "Rob McLarty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robmclarty/diablo3profiles/issues"
+  }
+}
